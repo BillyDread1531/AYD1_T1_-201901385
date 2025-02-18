@@ -1,0 +1,23 @@
+{
+  "name": "ayd1_t1_-201901385",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BillyDread1531/AYD1_T1_-201901385.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BillyDread1531/AYD1_T1_-201901385/issues"
+  },
+  "homepage": "https://github.com/BillyDread1531/AYD1_T1_-201901385#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

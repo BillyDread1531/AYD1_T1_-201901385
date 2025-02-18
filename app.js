@@ -9,6 +9,8 @@ app.post('/agregarCancion', (req, res) => {
     const { nombre, artista, album } = req.body;
     const cancion = { nombre, artista, album };
     res.status(201).json({ mensaje: 'Canción creada', cancion });
+<<<<<<< HEAD
+=======
 });
 
 
@@ -29,4 +31,5 @@ app.get('/verInformacion', (req, res) => {
 
 app.listen(port, () => {
     console.log(`API escuchando en http://localhost:${port}`);
+>>>>>>> feature/VerInformacion
 });
